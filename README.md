@@ -1,7 +1,6 @@
-# Custom project from Hilla
+# Starting with Hilla - Udemy Course Repo
 
-This project can be used as a starting point to create your own Hilla application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+This repo is a template application for Udemy course: Starting with Hilla. See the course details here: https://www.udemy.com/course/starting-with-hilla-from-vaadin/?referralCode=D71EDDD05007B9DBDF5F
 
 ## Running the application
 
